@@ -1,12 +1,13 @@
 # <p align="center">Curso de Python 2022 <p>
 
-Listas de exercicios de python feitos pelo Grupo 1 de trainees da FEA.dev 2023
+Listas de exercicios de Python feitos pelo Grupo 1 de trainees da FEA.dev 2023
 
 ##
   
 ### Membros do grupo:
-- Amanda Yamasaki 
-- Gabriel Grub 
+- Amanda Yamasaki
+- Gabriel Grub
+- Maria Dulce Matos
 - Paulo Sergio
 
 ##
