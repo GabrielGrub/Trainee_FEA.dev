@@ -9,6 +9,7 @@ Listas de exercicios de Python feitos pelo Grupo 1 de trainees da FEA.dev 2023
 - Gabriel Grub
 - Maria Dulce Matos
 - Paulo Sergio
+- Theo Borten
 
 ##
   
