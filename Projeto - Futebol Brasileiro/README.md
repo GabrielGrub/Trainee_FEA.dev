@@ -7,15 +7,15 @@
 <p align="justify">Análise de dados do futebol brasileiro realizado por membros da FEA.dev para o projeto de capacitação dos bixos que tem como próposito apurar as inúmeras variáveis que influenciam nas probabilidades do resultado de uma partidade de futebol, e principalmente examinar como esses detalhes se revelam através dos dados numéricos sobre campeonatos no Brasil.</p>
 
 ## Membros do Projeto
-   :soccer: Amanda Yamasaki
+   :soccer: [Amanda Yamasaki](https://github.com/amandaey) 
+  
+   :soccer: [Gabriel Grub](https://github.com/GabrielGrub) 
    
-   :soccer: Gabriel Grub
+   :soccer: [Maria Dulce Matos](https://github.com/mariadulcenbm) 
    
-   :soccer: Maria Dulce Matos
+   :soccer: [Paulo Sergio](https://github.com/lauposergio) 
    
-   :soccer: Paulo Sergio
-   
-   :soccer: Theo Borten
+   :soccer: [Theo Borten](https://github.com/TheoBorten) 
 
 ## Tópicos
 :soccer: Contextualização
