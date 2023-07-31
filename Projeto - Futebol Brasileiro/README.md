@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-> Status: em desenvolvimento
+> Status: Concluído :heavy_check_mark:
 
 <p align="justify">Análise de dados do futebol brasileiro realizado por membros da FEA.dev para o projeto de capacitação dos bixos que tem como próposito apurar as inúmeras variáveis que influenciam nas probabilidades do resultado de uma partidade de futebol, e principalmente examinar como esses detalhes se revelam através dos dados numéricos sobre campeonatos no Brasil.</p>
 
@@ -42,8 +42,8 @@ Ao contrário de loterias numéricas ou jogos com dados (cujos dados são justos
 Afim de averiguar as correlações e os padrões-ocultos dos dados dos três campeonatos, formulamos três hipóteses que relacionam o horário da partida e a dinâmica do jogo, a tendência consistente de desempenho de um time nos campeonatos citados e o desempenho individual em partidas anteriores e subsequentes.
 
 1. O horário da partida influencia significativamente a dinâmica do jogo, demonstrando uma relação entre o horário de início e a quantidade de gols marcados.
-2. Existe uma correlação positiva entre a classificação dos clubes nos campeonatos da Libertadores, Brasileirão e Copa do Brasil, indicando uma tendência consistente de desempenho entre essas competições.
-3. Há uma correlação positiva entre o desempenho recente de um clube, medido pelos resultados dos três jogos anteriores, e o desempenho no jogo subsequente.
+2. Clubes com maiores investimentos em seu elenco costumam elencar entre as melhores posições do campeonato brasileiro (Brasileirão).
+3. Um bom desempenho na temporada passada tende a indicar um bom desempenho na próxima temporada.
 
 ## Tratamento dos Dados
 Nessa etapa importamos as bibliotecas necessárias para nossa análise completa da base de dados, verificamos as informações dos dados da Libertadores, da Copa do Brasil e do Brasileirão e realizamos a limpeza de dados de valores nulos, valores indesejados e outliers.
@@ -51,5 +51,5 @@ Nessa etapa importamos as bibliotecas necessárias para nossa análise completa 
 ## Insights
 Criação de funções que auxiliaram a análise das hipóteses mensionadas, organização dos dataframes, preparação dos gráficos e a vizualização dos dados por meio de gráficos de barra, de linha e interativos.
 
- 
-<p align="justify">Segue a gente aqui no Github e também o perfil da FEA.dev!</p>
+## Análise Futura
+Explorar mais profundamento os datasets relativos a Copa do Brasil e  Libertadores e explorar novos datasets como [série A](https://basedosdados.org/dataset/c861330e-bca2-474d-9073-bc70744a1b23?table=18835b0d-233e-4857-b454-1fa34a81b4fa/), que é do campeonato brasileiro série A, mais detalhado e com maiores informaçãoes que os dados analisados por nós até então. Portanto, existem outras hipóteses que podem ser verificadas e analizadas sobre o futebol brasileiro.
