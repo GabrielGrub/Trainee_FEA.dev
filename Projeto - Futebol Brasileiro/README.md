@@ -51,5 +51,5 @@ Nessa etapa importamos as bibliotecas necessárias para nossa análise completa 
 ## Insights
 Criação de funções que auxiliaram a análise das hipóteses mensionadas, organização dos dataframes, preparação dos gráficos e a vizualização dos dados por meio de gráficos de barra, de linha e interativos.
 
-Obrigado por 
-Segue a gente aqui no Github e também o perfil da FEA.dev!
+ 
+<p align="justify">Segue a gente aqui no Github e também o perfil da FEA.dev!</p>
